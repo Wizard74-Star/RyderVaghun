@@ -3,12 +3,18 @@ import { motion } from 'framer-motion';
 import sprintiqImg from '../images/sprintiq.png';
 import loyalaiImg from '../images/loyalai.png';
 import itechdevImg from '../images/ITechdev.png';
+import cleverTapImg from '../images/cleverTap.png';
+import gcuImg from '../images/gcu.png';
+import nopcommerceImg from '../images/nopcommerce.png';
 import projectsImage from '../images/projects.jpg';
 
 const projectImages = {
   'sprintiq.png': sprintiqImg,
   'loyalai.png': loyalaiImg,
   'ITechdev.png': itechdevImg,
+  'cleverTap.png': cleverTapImg,
+  'gcu.png': gcuImg,
+  'nopcommerce.png': nopcommerceImg,
 };
 
 const Projects = () => {
